@@ -1,2 +1,2 @@
 # Haskell-FFI
-Haskell FFI Samples
+Haskell FFI Examples
